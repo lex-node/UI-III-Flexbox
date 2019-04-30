@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e05b1ac-80dc-4c70-8d0a-a0af9a1831e1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/great-idea/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/great-idea/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/great-idea/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/great-idea/index.html" afterDir="false" />
     </list>
@@ -22,8 +21,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/great-idea/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="241">
-                  <caret line="64" column="35" lean-forward="true" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
+                <state relative-caret-position="317">
+                  <caret line="99" column="4" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="4" />
                 </state>
               </provider>
             </entry>
@@ -35,8 +34,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/great-idea/css/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="107">
-                  <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+                <state relative-caret-position="198">
+                  <caret line="157" column="1" lean-forward="true" selection-start-line="157" selection-start-column="1" selection-end-line="157" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -57,9 +56,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="1197" />
+    <option name="x" value="1244" />
     <option name="y" value="25" />
-    <option name="width" value="715" />
+    <option name="width" value="668" />
     <option name="height" value="941" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -132,18 +131,18 @@
       <updated>1556644192709</updated>
       <workItem from="1556644204502" duration="959000" />
       <workItem from="1556647274962" duration="68000" />
-      <workItem from="1556647437011" duration="7436000" />
+      <workItem from="1556647437011" duration="9073000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8463000" />
+    <option name="totallyTimeSpent" value="10100000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1197" y="25" width="715" height="941" extended-state="4" />
+    <frame x="1244" y="25" width="668" height="941" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988426" visible="true" weight="0.0433526" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988426" visible="true" weight="0.046511628" />
       <window_info id="Structure" order="1" sideWeight="0.5011574" side_tool="true" weight="0.033333335" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -168,15 +167,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/great-idea/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="64" column="35" lean-forward="true" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
+        <state relative-caret-position="317">
+          <caret line="99" column="4" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/great-idea/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+        <state relative-caret-position="198">
+          <caret line="157" column="1" lean-forward="true" selection-start-line="157" selection-start-column="1" selection-end-line="157" selection-end-column="1" />
         </state>
       </provider>
     </entry>
