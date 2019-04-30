@@ -66,19 +66,17 @@ h1, h2, h3, h4, h5 {
 /* Copy and paste your work from yesterday here and start to refactor into flexbox */
 
 
-.nav-container{
-	text-align: center;
+nav{
+	/*text-align: center;*/
 	width: 100%;
 	margin: 30px 0px;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
 }
-nav {
-	text-align: center;
-	width: 100%;
-	display: inline-block;
-}
+
 a, .logo{
-	width: 130px;
-	display: inline-block;
+	/*width: 130px;*/
 	color: gray;
 	text-decoration: none;
 }
@@ -90,15 +88,13 @@ header {
 	text-align: center;
 }
 .nonce-class{
-	width: 370px;
-	height: 200px;
-	display: inline-block;
-	text-align: center;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: space-between;
 }
 
 h1 {
 	font-size: 50px;
-	display: inline-block;
 }
 
 
