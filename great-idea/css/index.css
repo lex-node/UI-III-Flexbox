@@ -73,12 +73,9 @@ h1, h2, h3, h4, h5 {
 
 
 nav {
-    /*text-align: center;*/
-    width: 100%;
-    margin: 30px 0px;
+    width: 876px;
     display: flex;
-    justify-content: space-evenly;
-    align-items: center;
+    justify-content: space-between;
 }
 
 a, .logo {
@@ -91,7 +88,6 @@ header {
     width: 100%;
     text-align: center;
     display: flex;
-    flex-direction: row;
     justify-content: center;
     align-items: center;
 }
